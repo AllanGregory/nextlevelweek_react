@@ -1,6 +1,6 @@
 # PROJETO PROFFY
 
-<img src="/docs/web_proffy.png" alt="Print de tela web"/>
+<img src="/docs/web_Proffy.png" alt="Print de tela web"/>
 
 ## Curso da Rocketseat - NextLevelWeek 02
 
@@ -70,13 +70,13 @@
 
     - WEB:
 
-<img src="/docs/web_proffy.png" alt="Print de tela web"/>
+<img src="/docs/web_Proffy.png" alt="Print de tela web"/>
 
-<img src="/docs/web_proffy_2.png" alt="Print de tela web"/>
+<img src="/docs/web_Proffy_2.png" alt="Print de tela web"/>
 
 
     - Mobile:
 
-<img src="/docs/mobile_proffy.png" alt="Print de tela web"/>
+<img src="/docs/mobile_Proffy.png" alt="Print de tela web"/>
 
-<img src="/docs/mobile_proffy_2.png" alt="Print de tela web"/>
+<img src="/docs/mobile_Proffy_2.png" alt="Print de tela web"/>
