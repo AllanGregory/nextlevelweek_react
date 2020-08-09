@@ -77,6 +77,4 @@
 
     - Mobile:
 
-<img src="/docs/mobile_Proffy.jpeg" alt="Print de tela web"/>
-
-<img src="/docs/mobile_Proffy_2.jpeg" alt="Print de tela web"/>
+<img src="/docs/mobile_Proffy.jpeg" alt="Print de tela web" style="max-width: 30%;" /><img src="/docs/mobile_Proffy_2.jpeg" alt="Print de tela web" style="max-width: 30%;" />
