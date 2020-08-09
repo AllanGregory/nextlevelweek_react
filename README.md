@@ -2,7 +2,7 @@
 
 ## Curso da Rocketseat - NextLevelWeek 02
 
-<img src="/docs/web_proffy.png" alt="Print de tela web"/>
+<img src="/docs/web_proffy.png" alt="My cool logo"/>
 
 # Funcionalidades
 
@@ -70,13 +70,13 @@
 
     - WEB:
 
-  <img src="/docs/web_proffy.png" alt="Print de tela web"/>
+  <img src="/docs/web_proffy.png" alt="My cool logo"/>
 
-  <img src="/docs/web_proffy_2.png" alt="Print de tela web"/>
+  <img src="/docs/web_proffy_2.png" alt="My cool logo"/>
 
 
     - Mobile:
 
-  <img src="/docs/mobile_proffy.png" alt="Print de tela web"/>
+  <img src="/docs/mobile_proffy.png" alt="My cool logo"/>
 
-  <img src="/docs/mobile_proffy_2.png" alt="Print de tela web"/>
+  <img src="/docs/mobile_proffy_2.png" alt="My cool logo"/>
